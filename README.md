@@ -50,6 +50,36 @@
 
 # Description
 
+To start run in your terminal `node index.js`
+
+<p>&nbsp;</p>
+<img src="https://user-images.githubusercontent.com/107449948/205701128-cb8fb9ee-2885-4c62-a5de-a630a3a6ccd1.png">
+<p>&nbsp;</p>
+
+You will then be prompted with questions for the manager. When done, it will then prompt for: engineer, intern or no other employees
+
+<p>&nbsp;</p>
+<img src="https://user-images.githubusercontent.com/107449948/205701510-9bad40fa-833c-44a6-968e-93c9f6661ca0.png">
+<p>&nbsp;</p>
+
+If you click on engineer, another set of questions will be prompted
+
+<p>&nbsp;</p>
+<img src="https://user-images.githubusercontent.com/107449948/205702120-78d945c3-6145-43e1-91fb-45074e10d1d9.png">
+<p>&nbsp;</p>
+
+The same for intern, another set of questions
+
+<p>&nbsp;</p>
+<img src="https://user-images.githubusercontent.com/107449948/205702483-1c50363f-da5b-4076-ad7d-4975cbfc7206.png">
+<p>&nbsp;</p>
+
+Finally if you select no other employees to add. It will render an HTML page with the info that was previously entered above, that can be found in your dist folder.
+
+<p>&nbsp;</p>
+<img src="https://user-images.githubusercontent.com/107449948/205704494-336f4555-5dcf-450f-9267-9288b09e28ab.png">
+<img src="https://user-images.githubusercontent.com/107449948/205703113-5a3b5933-191c-4ad7-adf5-29531b8b7557.png">
+
 <p>&nbsp;</p>
 
 # Technology
@@ -60,7 +90,7 @@
 
 # Links
 
-[Deployed Link](https://github.com/SammyDP/OOP_W-10)
+[Video Submission](https://drive.google.com/file/d/1eAl0IKfYQWWrPZAIgU3npcO3N2LD1MyB/view)
 
 <p>&nbsp;</p>
 
